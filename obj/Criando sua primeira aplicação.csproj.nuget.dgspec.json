@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Leonardo\\OneDrive - Fatec Centro Paula Souza\\Pessoal\\Cursos\\C#\\Criando sua primeira aplicação\\Criando sua primeira aplicação.csproj": {}
+    "C:\\Users\\Leonardo\\OneDrive - Fatec Centro Paula Souza\\Pessoal\\Cursos\\C#\\Criando sua primeira aplicação\\MeuPrimeiroProjeto\\Criando sua primeira aplicação.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Leonardo\\OneDrive - Fatec Centro Paula Souza\\Pessoal\\Cursos\\C#\\Criando sua primeira aplicação\\Criando sua primeira aplicação.csproj": {
+    "C:\\Users\\Leonardo\\OneDrive - Fatec Centro Paula Souza\\Pessoal\\Cursos\\C#\\Criando sua primeira aplicação\\MeuPrimeiroProjeto\\Criando sua primeira aplicação.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Leonardo\\OneDrive - Fatec Centro Paula Souza\\Pessoal\\Cursos\\C#\\Criando sua primeira aplicação\\Criando sua primeira aplicação.csproj",
+        "projectUniqueName": "C:\\Users\\Leonardo\\OneDrive - Fatec Centro Paula Souza\\Pessoal\\Cursos\\C#\\Criando sua primeira aplicação\\MeuPrimeiroProjeto\\Criando sua primeira aplicação.csproj",
         "projectName": "Criando sua primeira aplicação",
-        "projectPath": "C:\\Users\\Leonardo\\OneDrive - Fatec Centro Paula Souza\\Pessoal\\Cursos\\C#\\Criando sua primeira aplicação\\Criando sua primeira aplicação.csproj",
+        "projectPath": "C:\\Users\\Leonardo\\OneDrive - Fatec Centro Paula Souza\\Pessoal\\Cursos\\C#\\Criando sua primeira aplicação\\MeuPrimeiroProjeto\\Criando sua primeira aplicação.csproj",
         "packagesPath": "C:\\Users\\Leonardo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Leonardo\\OneDrive - Fatec Centro Paula Souza\\Pessoal\\Cursos\\C#\\Criando sua primeira aplicação\\obj\\",
+        "outputPath": "C:\\Users\\Leonardo\\OneDrive - Fatec Centro Paula Souza\\Pessoal\\Cursos\\C#\\Criando sua primeira aplicação\\MeuPrimeiroProjeto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
