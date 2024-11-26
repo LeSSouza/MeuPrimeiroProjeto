@@ -1,0 +1,14 @@
+C:\Users\Leonardo\OneDrive - Fatec Centro Paula Souza\Pessoal\Cursos\C#\Criando sua primeira aplicação\bin\Debug\net9.0\Criando sua primeira aplicação.exe
+C:\Users\Leonardo\OneDrive - Fatec Centro Paula Souza\Pessoal\Cursos\C#\Criando sua primeira aplicação\bin\Debug\net9.0\Criando sua primeira aplicação.deps.json
+C:\Users\Leonardo\OneDrive - Fatec Centro Paula Souza\Pessoal\Cursos\C#\Criando sua primeira aplicação\bin\Debug\net9.0\Criando sua primeira aplicação.runtimeconfig.json
+C:\Users\Leonardo\OneDrive - Fatec Centro Paula Souza\Pessoal\Cursos\C#\Criando sua primeira aplicação\bin\Debug\net9.0\Criando sua primeira aplicação.dll
+C:\Users\Leonardo\OneDrive - Fatec Centro Paula Souza\Pessoal\Cursos\C#\Criando sua primeira aplicação\bin\Debug\net9.0\Criando sua primeira aplicação.pdb
+C:\Users\Leonardo\OneDrive - Fatec Centro Paula Souza\Pessoal\Cursos\C#\Criando sua primeira aplicação\obj\Debug\net9.0\Criando sua primeira aplicação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\OneDrive - Fatec Centro Paula Souza\Pessoal\Cursos\C#\Criando sua primeira aplicação\obj\Debug\net9.0\Criando sua primeira aplicação.AssemblyInfoInputs.cache
+C:\Users\Leonardo\OneDrive - Fatec Centro Paula Souza\Pessoal\Cursos\C#\Criando sua primeira aplicação\obj\Debug\net9.0\Criando sua primeira aplicação.AssemblyInfo.cs
+C:\Users\Leonardo\OneDrive - Fatec Centro Paula Souza\Pessoal\Cursos\C#\Criando sua primeira aplicação\obj\Debug\net9.0\Criando sua primeira aplicação.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\OneDrive - Fatec Centro Paula Souza\Pessoal\Cursos\C#\Criando sua primeira aplicação\obj\Debug\net9.0\Criando sua primeira aplicação.dll
+C:\Users\Leonardo\OneDrive - Fatec Centro Paula Souza\Pessoal\Cursos\C#\Criando sua primeira aplicação\obj\Debug\net9.0\refint\Criando sua primeira aplicação.dll
+C:\Users\Leonardo\OneDrive - Fatec Centro Paula Souza\Pessoal\Cursos\C#\Criando sua primeira aplicação\obj\Debug\net9.0\Criando sua primeira aplicação.pdb
+C:\Users\Leonardo\OneDrive - Fatec Centro Paula Souza\Pessoal\Cursos\C#\Criando sua primeira aplicação\obj\Debug\net9.0\Criando sua primeira aplicação.genruntimeconfig.cache
+C:\Users\Leonardo\OneDrive - Fatec Centro Paula Souza\Pessoal\Cursos\C#\Criando sua primeira aplicação\obj\Debug\net9.0\ref\Criando sua primeira aplicação.dll
